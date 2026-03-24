@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="sharedpref" path="ozlu_sozler_preferences.xml" />
+        <include domain="database" path="favorites_database" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="ozlu_sozler_preferences.xml" />
+        <include domain="database" path="favorites_database" />
+    </device-transfer>
+</data-extraction-rules>
+

@@ -1,0 +1,3 @@
+## Copy these values into your real local.properties file.
+## Do not commit your actual Gemini key.
+GEMINI_API_KEY=YOUR_KEY

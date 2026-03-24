@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="sharedpref" path="ozlu_sozler_preferences.xml" />
+    <include domain="database" path="favorites_database" />
+    <include domain="database" path="favorites_database-shm" />
+    <include domain="database" path="favorites_database-wal" />
+</full-backup-content>
+
